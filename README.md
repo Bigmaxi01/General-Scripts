@@ -6,5 +6,5 @@ Script to intall a watchdog service that will reboot if a nominated website/serv
 
 ### Usage
 ```
-sudo bash -c "$(wget -O - https://raw.githubusercontent.com/Bigmaxi01/General-Scripts/master/.sh)"
+sudo bash -c "$(wget -O - https://raw.githubusercontent.com/Bigmaxi01/General-Scripts/master/web_watchdog_install.sh)"
 ```
